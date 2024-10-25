@@ -49,6 +49,10 @@
   width: 30rem;
   margin-bottom: 1rem;
 }
+.submitMsg{
+  font-size: 1.5rem;
+    text-align: center;
+}
 .form-submit form button {
   font-size: 1.5rem;
   padding: 1rem 5rem;
@@ -59,6 +63,7 @@
   margin: 1rem auto;
   display: block;
   font-weight: bold;
+  cursor: pointer;
 }
 
 /* dragb-drop  */

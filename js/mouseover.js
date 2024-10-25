@@ -46,7 +46,7 @@ function formSubmitted(e) {
   e.preventDefault();
   let emailInputBox = document.getElementById("email");
 
-  if (emailInputBox !== "") {
+  if (emailInputBox.value !== "") {
     submitMsg.innerText = "Form Submitted Successfully";
   } else {
     submitMsg.innerText = "Enter Email and Msg";
