@@ -1,0 +1,77 @@
+.box-2 {
+  display: flex;
+  gap: 3rem;
+}
+.box2{
+  margin: 1rem auto;
+  padding: 2rem;
+  margin: 2rem 0;
+  background: #000000;
+  border-radius: 1.5rem;
+}
+.image-event-box {
+  width: 50%;
+background-color: #f6ca09;
+border-radius: 1.25rem;
+  margin: 1rem auto;
+  padding: 2rem;
+  overflow: hidden;
+}
+.image-event {
+  position: relative;
+}
+
+.image-event button {
+  padding: 1rem 1.5rem;
+  border-radius: 10rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: rgb(0, 162, 255);
+  cursor: pointer;
+}
+.image-main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imgDiv {
+  width: 40rem;
+  height: 30rem;
+  border-radius: 2rem;
+  padding: 1rem;
+  background-color: rgb(33, 32, 32);
+}
+.image-event .image {
+  width: 100%;
+  border-radius: 2rem;
+  height: 100%;
+  object-fit: cover;
+}
+.left {
+  position: absolute;
+  top: 13rem;
+  left: 2rem;
+  font-size: 3rem;
+  color: rgb(0, 136, 255);
+  cursor: pointer;
+}
+.right {
+  position: absolute;
+  top: 13rem;
+  right: 2rem;
+  font-size: 3rem;
+  color: rgb(0, 136, 255);
+  cursor: pointer;
+}
+
+/* ----------------mouse event------------- */
+.mouse-event-box {
+  width: 50%;
+}
+
+.mouse-event-img img {
+  width: 30rem;
+}

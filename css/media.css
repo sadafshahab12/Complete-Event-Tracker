@@ -1,0 +1,356 @@
+@media only screen and (max-width: 321px) {
+  html {
+    font-size: 43%;
+  }
+  .box-2 {
+    display: block;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 33rem;
+    height: 29rem;
+  }
+}
+@media only screen and (min-width: 321px) and (max-width: 376px) {
+  html {
+    font-size: 45%;
+  }
+  .box-2 {
+    display: block;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 33rem;
+    height: 29rem;
+  }
+}
+@media only screen and (min-width: 376px) and (max-width: 426px) {
+  html {
+    font-size: 47%;
+  }
+  .box-2 {
+    display: block;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 45rem;
+    height: 29rem;
+  }
+  .email input {
+    width: 45rem;
+  }
+  .msg textarea {
+    width: 45rem;
+  }
+  .drag-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+  .drop-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+@media only screen and (min-width: 426px) and (max-width: 526px) {
+  html {
+    font-size: 50%;
+  }
+  .box-2 {
+    display: block;
+  }
+  .box-4 {
+   flex-direction: row;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 48rem;
+    height: 34rem;
+  }
+  .email input {
+    width: 60rem;
+  }
+  .msg textarea {
+    width: 60rem;
+  }
+  .drag-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+  .drop-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+@media only screen and (min-width: 526px) and (max-width: 626px) {
+  html {
+    font-size: 52%;
+  }
+  .box-2 {
+    display: flex;
+}
+  .box-4 {
+   flex-direction: row;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 48rem;
+    height: 34rem;
+  }
+  .email input {
+    width: 60rem;
+  }
+  .msg textarea {
+    width: 60rem;
+  }
+  .drag-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+  .drop-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+@media only screen and (min-width: 626px) and (max-width: 768px) {
+  html {
+    font-size: 57%;
+  }
+  .box-2 {
+    display: flex;
+}
+  .box-4 {
+   flex-direction: row;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: block;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: block;
+  }
+  .resize {
+    margin-bottom: 2rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 48rem;
+    height: 34rem;
+  }
+  .email input {
+    width: 60rem;
+  }
+  .msg textarea {
+    width: 60rem;
+  }
+  .drag-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+  .drop-pic {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width:996px){
+  html {
+    font-size: 57%;
+  }
+  .box-2 {
+    display: flex;
+}
+  .box-4 {
+   flex-direction: column;
+  }
+  .image-event-box {
+    width: 100%;
+  }
+  .mouse-event-box {
+    width: 100%;
+  }
+  .events {
+    display: flex;
+  }
+  .box-3 {
+    width: 100%;
+  }
+  .box-4 {
+    width: 100%;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .other-events {
+    display: flex;
+  }
+  .resize {
+    margin-bottom: 2rem;
+    padding: 6rem;
+  }
+  .form-submit {
+    margin-bottom: 2rem;
+  }
+  .video {
+    width: 48rem;
+    height: 34rem;
+  }
+  .email input {
+    width: 30rem;
+  }
+  .msg textarea {
+    width: 30rem;
+  }
+  .drag-pic {
+    width: 17rem;
+    height: 17rem;
+  }
+  .drop-pic {
+    width: 17rem;
+    height: 17rem;
+  }
+}

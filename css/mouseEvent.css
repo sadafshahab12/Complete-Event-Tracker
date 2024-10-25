@@ -1,0 +1,184 @@
+.mouse-event-box {
+  background-color: #84caff;
+  margin: 1rem auto;
+  padding: 2rem;
+  border-radius: 1.25rem;
+  overflow: hidden;
+}
+.mouse-event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mouse-event-img {
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 2rem;
+  width: 35rem;
+  height: 27rem;
+  background: linear-gradient(rgb(5, 43, 108), yellow);
+}
+.mouse-event-img img {
+  border-radius: 1.5rem;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image-tag {
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+  text-align: center;
+  font-weight: 700;
+}
+.box-3 {
+  background: coral;
+  border-radius: 1.25rem;
+  margin: 1rem auto;
+  padding: 2rem;
+  margin: 2rem 0;
+  width: calc(100% / 3);
+}
+.box-3 h1 {
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.box-3-img {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 2rem;
+  padding: 1rem;
+  margin: auto;
+
+  background-color: rgb(7, 166, 153);
+}
+.box-3-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 1.5rem;
+  object-fit: cover;
+}
+.scale {
+  transform: scale(1.1);
+}
+.size {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+.size p {
+  font-size: 1.5rem;
+  padding-top: 2rem;
+  font-weight: 600;
+}
+
+/*----------- keyboard-------------  */
+.box-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  background: #4d8587;
+  border-radius: 1.25rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  width: calc(100% / 3);
+  color: #fff;
+}
+.keyPress {
+  padding: 1rem;
+  outline: none;
+  border: 1px solid gray;
+  font-size: 2rem;
+  margin: 1.5rem 0 0 0;
+}
+.showKey {
+  font-size: 1.5rem;
+  padding: 1.5rem 0;
+  height: 5rem;
+}
+.box-5 {
+  padding: 2rem;
+  margin: 2rem 0;
+  width: calc(100% / 3);
+  background: tomato;
+  border-radius: 1.25rem;
+}
+.box-5 h1 {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+/* ---------mouse over third event------------ */
+.dropdownhead li {
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 2rem;
+  list-style: none;
+  border: 1px solid black;
+  border-radius: 1rem;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.dropdownlist {
+  margin-top: 2rem;
+  display: none;
+  border-radius: 1rem;
+  background-color: #000;
+}
+.dropdownlist li {
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  list-style: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 1.5rem;
+  margin: 1rem 0;
+}
+.dropdownlist li:hover {
+  background-color: rgb(171, 173, 173);
+  color: black;
+}
+.show {
+  display: block;
+}
+.events {
+  display: flex;
+  justify-content: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.focus h1 {
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+.focus input {
+  padding: 1rem;
+  outline: none;
+  border: 1px solid gray;
+  font-size: 2rem;
+  margin: 1.5rem 0 0 0;
+}
+.focus p {
+  padding: 1.5rem 0;
+  font-size: 2rem;
+}
+
+/* ----resize---- */
+.resize {
+
+  background-color: crimson;
+  text-align: center;
+  color: white;
+  padding: 10rem;
+  letter-spacing: 0.2rem;
+  border-radius: 1.25rem;
+}
+.resize p {
+  font-size: 2rem;
+  padding-top: 1.5rem;
+}
